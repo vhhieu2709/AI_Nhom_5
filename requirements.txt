@@ -1,0 +1,9 @@
+numpy
+opencv-python
+mediapipe
+xgboost==3.2.0
+joblib
+scikit-learn
+flask
+gunicorn
+pillow
